@@ -115,13 +115,6 @@ A full-stack, production-grade RAG platform delivering **sub-second semantic sea
 
 ---
 
-## GitHub Stats
-
-![Ashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashi777&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashi777&layout=compact&theme=default&hide_border=true&langs_count=8)
-
----
-
 ## Let's Connect
 
 I'm open to **SDE, backend, full-stack (backend-leaning), and software engineering roles**.
