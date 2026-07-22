@@ -8,7 +8,7 @@ B.Tech Computer Science, CGPA 9.43 · Manipal University · AIR 34 (top 0.03%), 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashi-malaiya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashimalaiya.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ashi777)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashimalaiya)
 
 ---
 
@@ -70,7 +70,7 @@ A working reimplementation of Git in **pure Python with zero dependencies** — 
 - **Full-stack visualizer:** a 4-endpoint REST API and D3.js v7 single-page app rendering an interactive topological commit graph, branch overlays, and an in-browser file viewer.
 - **Benchmarked at 1.3–1.7× native C Git speed** for staging operations — in interpreted Python.
 
-**→ [github.com/Ashi777/pygit](https://github.com/Ashi777/pygit)**
+**→ [github.com/ashimalaiya/pygit](https://github.com/ashimalaiya/pygit)**
 
 ---
 
